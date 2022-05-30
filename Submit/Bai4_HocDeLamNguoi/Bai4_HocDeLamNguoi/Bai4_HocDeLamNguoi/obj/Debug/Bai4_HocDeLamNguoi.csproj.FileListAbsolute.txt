@@ -1,0 +1,10 @@
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\obj\Debug\Bai4_HocDeLamNguoi.csprojAssemblyReference.cache
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\obj\Debug\Bai4_HocDeLamNguoi.csproj.CoreCompileInputs.cache
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\bin\Debug\Bai4_HocDeLamNguoi.exe.config
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\bin\Debug\Bai4_HocDeLamNguoi.exe
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\bin\Debug\Bai4_HocDeLamNguoi.pdb
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\bin\Debug\Library.dll
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\bin\Debug\Library.pdb
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\obj\Debug\Bai4_HocDeLamNguoi.csproj.CopyComplete
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\obj\Debug\Bai4_HocDeLamNguoi.exe
+D:\Trường Béo\Bai4_HocDeLamNguoi\Bai4_HocDeLamNguoi\obj\Debug\Bai4_HocDeLamNguoi.pdb

@@ -1,0 +1,6 @@
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\bin\Debug\Buoi2_1.exe
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\bin\Debug\Buoi2_1.pdb
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\obj\Debug\Buoi2_1.csprojAssemblyReference.cache
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\obj\Debug\Buoi2_1.csproj.CoreCompileInputs.cache
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\obj\Debug\Buoi2_1.exe
+D:\DayHoc\C#\Buoi2_1\Buoi2_1\obj\Debug\Buoi2_1.pdb

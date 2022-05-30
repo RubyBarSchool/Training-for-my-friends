@@ -1,0 +1,6 @@
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\bin\Debug\Library.dll
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\bin\Debug\Library.pdb
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\obj\Debug\Library.dll
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\Library\obj\Debug\Library.pdb

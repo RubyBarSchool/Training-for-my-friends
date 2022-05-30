@@ -1,0 +1,9 @@
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\obj\Debug\HocDeLamNguoi_Buoi2.csprojAssemblyReference.cache
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\obj\Debug\HocDeLamNguoi_Buoi2.csproj.CoreCompileInputs.cache
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\bin\Debug\HocDeLamNguoi_Buoi2.exe
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\bin\Debug\HocDeLamNguoi_Buoi2.pdb
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\bin\Debug\Library.dll
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\bin\Debug\Library.pdb
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\obj\Debug\HocDeLamNguoi_Buoi2.csproj.CopyComplete
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\obj\Debug\HocDeLamNguoi_Buoi2.exe
+D:\PRN292_SourceCode\HocDeLamNguoi_Buoi2\HocDeLamNguoi_Buoi2\obj\Debug\HocDeLamNguoi_Buoi2.pdb

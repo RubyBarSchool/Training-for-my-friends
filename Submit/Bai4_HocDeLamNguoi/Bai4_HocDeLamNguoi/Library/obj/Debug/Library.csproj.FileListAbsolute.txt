@@ -1,0 +1,6 @@
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\bin\Debug\Library.dll
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\bin\Debug\Library.pdb
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\obj\Debug\Library.dll
+D:\Trường Béo\Bai4_HocDeLamNguoi\Library\obj\Debug\Library.pdb

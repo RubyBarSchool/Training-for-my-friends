@@ -1,0 +1,7 @@
+D:\DayHoc\C#\Demowebform\Demowebform\bin\Demowebform.dll.config
+D:\DayHoc\C#\Demowebform\Demowebform\bin\Demowebform.dll
+D:\DayHoc\C#\Demowebform\Demowebform\bin\Demowebform.pdb
+D:\DayHoc\C#\Demowebform\Demowebform\obj\Debug\Demowebform.csprojAssemblyReference.cache
+D:\DayHoc\C#\Demowebform\Demowebform\obj\Debug\Demowebform.csproj.CoreCompileInputs.cache
+D:\DayHoc\C#\Demowebform\Demowebform\obj\Debug\Demowebform.dll
+D:\DayHoc\C#\Demowebform\Demowebform\obj\Debug\Demowebform.pdb

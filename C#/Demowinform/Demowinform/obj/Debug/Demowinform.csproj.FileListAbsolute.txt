@@ -1,0 +1,9 @@
+D:\DayHoc\C#\Demowinform\Demowinform\bin\Debug\Demowinform.exe
+D:\DayHoc\C#\Demowinform\Demowinform\bin\Debug\Demowinform.pdb
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.csprojAssemblyReference.cache
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.Form1.resources
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.Properties.Resources.resources
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.csproj.GenerateResource.cache
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.csproj.CoreCompileInputs.cache
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.exe
+D:\DayHoc\C#\Demowinform\Demowinform\obj\Debug\Demowinform.pdb
